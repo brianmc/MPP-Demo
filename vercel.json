@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/proxy/ping/paid",
+      "destination": "https://mpp.dev/api/ping/paid"
+    }
+  ]
+}
