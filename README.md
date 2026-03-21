@@ -1,6 +1,7 @@
 # MPP Demo
 
 An interactive browser demo of the [Machine Payments Protocol](https://mpp.dev) — the open standard for autonomous machine-to-machine payments over HTTP.
+The demo is currently hosted at [paymentdemos.com](http://paymentdemos.com) however this site will often change which payment demos are featured.
 
 ![MPP Demo screenshot](https://mpp.dev/og.png)
 
